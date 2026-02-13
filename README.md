@@ -1,25 +1,17 @@
 # 👋 Olá, eu sou Heitor Júlio Batista  
 
 🎯 Desenvolvedor Full-Stack em formação  
-📚 Estudando JavaScript e tecnologias Web  
-💻 Focado em desenvolvimento Back-End, APIs REST e banco de dados  
+📚 Estudando JavaScript, TypeScript e tecnologias Web  
+💻 Focado no desenvolvimento de aplicações web completas  
 
 ---
 
 ## 🧠 Sobre mim  
 
-Sou estudante de tecnologia com foco em desenvolvimento Back-End utilizando JavaScript e Node.js.
+Sou estudante de tecnologia com foco em desenvolvimento Full-Stack utilizando JavaScript e TypeScript.  
+Atuo na construção de aplicações web completas, desenvolvendo interfaces modernas com React e implementando APIs no Back-End com Node.js, integradas a bancos de dados como MongoDB.  
 
-Estou construindo uma base sólida em:
-
-- JavaScript (fundamentos e lógica de programação)
-- Desenvolvimento de APIs REST com Node.js
-- Banco de dados NoSQL com MongoDB
-- Versionamento de código com Git e GitHub
-- Estruturação de interfaces com HTML e CSS
-- Noções de React e TypeScript
-
-Atualmente estou fortalecendo meus fundamentos em JavaScript através de projetos práticos, evoluindo gradualmente para aplicações mais estruturadas.
+Busco aplicar boas práticas, organização de código e princípios de arquitetura para construir soluções escaláveis, bem estruturadas e de fácil manutenção.
 
 Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-Stack e evoluir continuamente na área.
 
@@ -30,8 +22,8 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-S
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Heitor-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Heitor-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Heitor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heitor-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Heitor-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Heitor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Heitor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,12 +35,12 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-S
 ## 📂 Atualmente Estudando  
 
 - JavaScript (fundamentos, lógica e construção de projetos práticos)  
-- Desenvolvimento Back-End com Node.js  
-- TypeScript (introdução e tipagem básica)  
-- Modelagem de dados com MongoDB  
-- Integração Front-End com React  
-- Estruturação com HTML5 e CSS3  
-- Boas práticas e organização de código  
+- TypeScript (tipagem estática e organização de código)  
+- React (componentização e Hooks)  
+- Desenvolvimento de APIs REST com Node.js  
+- Modelagem e manipulação de dados com MongoDB  
+- Estruturação e estilização com HTML5 e CSS3  
+- Boas práticas e organização de projetos  
 
 ---
 
@@ -74,6 +66,6 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-S
 
 ---
 
-💡 “Construindo hoje a base para me tornar um excelente desenvolvedor Full-Stack amanhã.”
+💡 “Construindo aplicações completas hoje para me tornar um excelente desenvolvedor Full-Stack amanhã.”
 
 
