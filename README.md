@@ -1,48 +1,58 @@
-# 👋 Olá, eu sou Heitor Júlio Batista
+# 👋 Olá, eu sou Heitor Júlio Batista  
 
-🎯 Desenvolvedor Back-End em formação  
-📚 Estudando Java e Spring Boot  
-💻 Focado em APIs REST, banco de dados e arquitetura de sistemas  
+🎯 Desenvolvedor Full-Stack em formação  
+📚 Estudando JavaScript e tecnologias Web  
+💻 Focado em desenvolvimento Back-End, APIs REST e banco de dados  
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre mim  
 
-Sou estudante de tecnologia com foco em desenvolvimento Back-End utilizando Java.
+Sou estudante de tecnologia com foco em desenvolvimento Back-End utilizando JavaScript e Node.js.
 
 Estou construindo uma base sólida em:
-- Programação Orientada a Objetos (POO)
-- Desenvolvimento de APIs REST com Spring Boot
-- Integração com bancos de dados relacionais (PostgreSQL e MySQL)
-- Versionamento de código com Git e GitHub
 
-Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Back-End Java e evoluir continuamente na área.
+- JavaScript (fundamentos e lógica de programação)
+- Desenvolvimento de APIs REST com Node.js
+- Banco de dados NoSQL com MongoDB
+- Versionamento de código com Git e GitHub
+- Estruturação de interfaces com HTML e CSS
+- Noções de React e TypeScript
+
+Atualmente estou fortalecendo meus fundamentos em JavaScript através de projetos práticos, evoluindo gradualmente para aplicações mais estruturadas.
+
+Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-Stack e evoluir continuamente na área.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Heitor-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Heitor-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Heitor-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Heitor-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Heitor-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Heitor-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Heitor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heitor-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Heitor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heitor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
 
-## 📂 Atualmente Estudando
+## 📂 Atualmente Estudando  
 
-- Estrutura de projetos com Spring Boot
-- JPA e Hibernate
-- CRUD completo com banco de dados
-- Tratamento de exceções
-- Boas práticas e organização de código
+- JavaScript (fundamentos, lógica e construção de projetos práticos)  
+- Desenvolvimento Back-End com Node.js  
+- TypeScript (introdução e tipagem básica)  
+- Modelagem de dados com MongoDB  
+- Integração Front-End com React  
+- Estruturação com HTML5 e CSS3  
+- Boas práticas e organização de código  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub  
 
 <div>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Heitorhj&show_icons=true&theme=github_dark" />
@@ -51,7 +61,7 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Back-E
 
 ---
 
-## 🌎 Contato
+## 🌎 Contato  
 
 <div> 
   <a href="https://www.linkedin.com/in/heitor-j%C3%BAlio/" target="_blank">
@@ -64,5 +74,6 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Back-E
 
 ---
 
-💡 “Construindo hoje a base para ser um excelente desenvolvedor amanhã.”
+💡 “Construindo hoje a base para me tornar um excelente desenvolvedor Full-Stack amanhã.”
+
 
