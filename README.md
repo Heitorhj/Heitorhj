@@ -54,7 +54,7 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Back-E
 ## 🌎 Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/heitorhj/" target="_blank">
+  <a href="www.linkedin.com/in/heitor-júlio" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:heitorjuliobatista@gmail.com">
