@@ -1,50 +1,50 @@
-# 👋 Olá, eu sou Heitor Júlio Batista  
+# 👋 Olá, eu sou Heitor Júlio Batista
 
-🎯 Desenvolvedor Full-Stack em formação  
-📚 Estudando JavaScript, TypeScript e tecnologias Web  
-💻 Focado no desenvolvimento de aplicações web completas  
-
----
-
-## 🧠 Sobre mim  
-
-Sou estudante de tecnologia com foco em desenvolvimento Full-Stack utilizando JavaScript e TypeScript.  
-Atuo na construção de aplicações web completas, desenvolvendo interfaces modernas com React e implementando APIs no Back-End com Node.js, integradas a bancos de dados como MongoDB.  
-
-Busco aplicar boas práticas, organização de código e princípios de arquitetura para construir soluções escaláveis, bem estruturadas e de fácil manutenção.
-
-Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-Stack e evoluir continuamente na área.
+📊 Analista de Dados em formação  
+🐍 Estudando Python para análise de dados  
+📈 Focado em Pandas, Matplotlib e Estatística Descritiva  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🧠 Sobre mim
+
+Sou estudante de tecnologia com foco em Análise de Dados.
+
+Estou desenvolvendo habilidades em manipulação, análise e visualização de dados utilizando Python, com ênfase em:
+
+- Limpeza e tratamento de dados
+- Análise exploratória (EDA)
+- Estatística descritiva
+- Criação de gráficos e visualizações
+- Extração de insights a partir de dados
+
+Meu objetivo é conquistar minha primeira oportunidade como Analista de Dados e evoluir continuamente na área.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Heitor-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Heitor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Heitor-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Heitor-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Heitor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Heitor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Heitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Heitor-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Heitor-Matplotlib" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Heitor-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
 
-## 📂 Atualmente Estudando  
+## 📂 Atualmente Estudando
 
-- JavaScript (fundamentos, lógica e construção de projetos práticos)  
-- TypeScript (tipagem estática e organização de código)  
-- React (componentização e Hooks)  
-- Desenvolvimento de APIs REST com Node.js  
-- Modelagem e manipulação de dados com MongoDB  
-- Estruturação e estilização com HTML5 e CSS3  
-- Boas práticas e organização de projetos  
+- Estatística descritiva (média, mediana, moda, desvio padrão)
+- Manipulação de DataFrames com Pandas
+- Visualização de dados com Matplotlib
+- Análise exploratória de dados (EDA)
+- Projetos práticos com datasets reais
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 
 <div>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Heitorhj&show_icons=true&theme=github_dark" />
@@ -53,10 +53,10 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-S
 
 ---
 
-## 🌎 Contato  
+## 🌎 Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/heitor-j%C3%BAlio/" target="_blank">
+  <a href="https://www.linkedin.com/in/heitor-julio" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:heitorjuliobatista@gmail.com">
@@ -66,6 +66,4 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor Full-S
 
 ---
 
-💡 “Construindo aplicações completas hoje para me tornar um excelente desenvolvedor Full-Stack amanhã.”
-
-
+💡 “Transformando dados em decisões.”
