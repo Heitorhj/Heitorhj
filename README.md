@@ -1,26 +1,24 @@
 # 👋 Olá, eu sou Heitor Júlio Batista
 
-💻 Desenvolvedor Full Stack em formação  
-📊 Analista de Dados em formação  
+💻 Desenvolvedor Back-End em formação  
+📊 Estudando Análise de Dados  
 🐍 Estudando Python e JavaScript  
-📈 Focado em transformar dados em soluções web
+🚀 Estudando Desenvolvimento Full Stack
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de tecnologia com foco em **Desenvolvimento Full Stack e Análise de Dados**.
+Sou estudante de tecnologia com foco em **Desenvolvimento Back-End**.
 
-Atualmente desenvolvo aplicações web enquanto evoluo minhas habilidades em manipulação, análise e visualização de dados com Python.
+Atualmente estou estudando JavaScript e Node.js enquanto evoluo meus conhecimentos em análise de dados com Python.
 
 Tenho experiência prática com:
 
-- Desenvolvimento de interfaces web responsivas  
-- Manipulação e tratamento de dados  
-- Análise exploratória (EDA)  
-- Estatística descritiva  
-- Criação de dashboards e visualizações  
-- Extração de insights para tomada de decisão  
+- Lógica de programação aplicada a projetos  
+- Estruturação de aplicações web  
+- Fundamentos de Node.js  
+- Versionamento com Git  
 
 🎯 Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e evoluir como desenvolvedor orientado a dados.
 
@@ -28,13 +26,13 @@ Tenho experiência prática com:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🔹 Desenvolvimento Web
+### 🔹 Back-End & Web
 <div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Heitor-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Heitor-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Heitor-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Heitor-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Heitor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ### 🔹 Dados & Análise
@@ -43,26 +41,23 @@ Tenho experiência prática com:
   <img align="center" alt="Heitor-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Heitor-Matplotlib" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
   <img align="center" alt="Heitor-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ---
 
 ## 📂 Atualmente Estudando
 
-### 🚀 Full Stack
-- HTML, CSS e JavaScript moderno  
+### 🚀 Back-End
+- JavaScript moderno  
 - TypeScript  
+- Node.js  
 - React  
-- Consumo de APIs  
 - Lógica de programação aplicada a projetos  
 
 ### 📊 Dados
-- Estatística descritiva (média, mediana, moda, desvio padrão)  
-- Manipulação de DataFrames com Pandas  
-- Visualização de dados com Matplotlib  
-- Análise exploratória de dados (EDA)  
-- Projetos com datasets reais  
+- Estudando análise de dados com Python  
+- Manipulação de dados com Pandas  
+- Visualização com Matplotlib  
 
 ---
 
@@ -88,4 +83,5 @@ Tenho experiência prática com:
 
 ---
 
-💡 **“Transformando dados em decisões e código em soluções.”**
+💡 **“Transformando código em soluções inteligentes.”**
+
