@@ -1,74 +1,57 @@
 # 👋 Olá, eu sou Heitor Júlio Batista
-
-💻 Desenvolvedor Back-End em formação  
-📊 Estudando Análise de Dados  
-🐍 Estudando Python e JavaScript  
-🚀 Estudando Desenvolvimento Full Stack
-
+ 
+📊 Estudante de Análise de Dados
+🐍 Python | SQL | Power BI
+🎓 Ciência da Computação — Uninassau
+ 
 ---
-
+ 
 ## 🧠 Sobre mim
-
-Sou estudante de tecnologia com foco em **Desenvolvimento Back-End**.
-
-Atualmente estou estudando JavaScript e Node.js enquanto evoluo meus conhecimentos em análise de dados com Python.
-
+ 
+Sou estudante de tecnologia com foco em **Análise de Dados**.
+Atualmente estruturo meu portfólio combinando SQL, Python e Power BI para resolver perguntas de negócio reais.
+ 
 Tenho experiência prática com:
-
-- Lógica de programação aplicada a projetos  
-- Estruturação de aplicações web  
-- Fundamentos de Node.js  
-- Versionamento com Git  
-
-🎯 Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e evoluir como desenvolvedor orientado a dados.
-
+- Consultas SQL avançadas (window functions, CTEs, joins complexos)
+- Análise exploratória de dados com Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Construção de dashboards e modelagem de dados no Power BI
+- Versionamento com Git
+🎯 Meu objetivo é conquistar minha primeira oportunidade como Analista de Dados. Depois de consolidar essa base, meu próximo passo é evoluir para **Engenharia de Dados**.
+ 
 ---
-
+ 
 ## 🛠️ Tecnologias e Ferramentas
-
-### 🔹 Back-End & Web
-<div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Heitor-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Heitor-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Heitor-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-### 🔹 Dados & Análise
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Heitor-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Heitor-Matplotlib" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
   <img align="center" alt="Heitor-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Heitor-Matplotlib" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Heitor-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Heitor-PowerBI" height="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
-
 ---
-
-## 📂 Atualmente Estudando
-
-### 🚀 Back-End
-- JavaScript moderno  
-- TypeScript  
-- Node.js  
-- React  
-- Lógica de programação aplicada a projetos  
-
-### 📊 Dados
-- Estudando análise de dados com Python  
-- Manipulação de dados com Pandas  
-- Visualização com Matplotlib  
-
+ 
+## 📂 Projetos
+ 
+- 🔎 **Análise SQL — Olist**: consultas avançadas (window functions, CTEs, LAG) sobre um dataset real de e-commerce
+- 📊 **Dashboard Power BI**: modelagem de dados e visualização orientada a decisão
+- 🐍 **EDA em Python — Olist**: análise exploratória com Pandas/NumPy/Matplotlib/Seaborn, do dado bruto ao insight
 ---
-
+ 
+## 🚀 Próximo passo
+ 
+Depois de consolidar o portfólio de Análise de Dados, meu foco será **Engenharia de Dados** — pipelines, arquitetura e processamento em larga escala.
+ 
+---
+ 
 ## 📊 Estatísticas do GitHub
-
+ 
 <div>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Heitorhj&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Heitorhj&layout=compact&theme=github_dark" />
 </div>
-
----
 
 ## 🌎 Contato
 
