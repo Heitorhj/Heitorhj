@@ -37,7 +37,7 @@ Tenho experiência prática com:
  
 - 🔎 **Análise SQL — Olist**: consultas avançadas (window functions, CTEs, LAG) sobre um dataset real de e-commerce
 - 📊 **Dashboard Power BI**: modelagem de dados e visualização orientada a decisão
-- 🐍 **EDA em Python — Olist**: análise exploratória com Pandas/NumPy/Matplotlib/Seaborn, do dado bruto ao insight
+- 🐍 **EDA em Python — Agricultural-raw-material-prices**: análise exploratória com Pandas/NumPy/Matplotlib/Seaborn, do dado bruto ao insight
 ---
  
 ## 🚀 Próximo passo
