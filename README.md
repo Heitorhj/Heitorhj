@@ -1,14 +1,12 @@
-# 👋 Olá, eu sou Heitor Júlio Batista
+👋 Olá, eu sou Heitor Júlio Batista
 
-💻 Estudante de Ciência da Computação — UNINASSAU  
-🚀 Futuro Engenheiro de Software  
-☕ Java | Spring Boot | SQL | PostgreSQL  
-⚛️ React | Angular | JavaScript  
+💻 Estudante de Ciência da Computação — UNINASSAU
+🚀 Futuro Engenheiro de Software
+☕ Java | Spring Boot | SQL | PostgreSQL
+⚛️ React | Angular | JavaScript
 🐍 Python | Pandas | NumPy | Power BI
 
----
-
-## 🧠 Sobre mim
+🧠 Sobre mim
 
 Sou estudante de Ciência da Computação na UNINASSAU e tenho como objetivo construir minha carreira na área de Engenharia de Software.
 
@@ -20,22 +18,27 @@ Também venho estudando tecnologias de Frontend, como React e Angular, para comp
 
 Gosto de aprender na prática, desenvolver projetos e aprofundar meus conhecimentos nos fundamentos da computação.
 
-### 📚 Atualmente estudando
+📚 Atualmente estudando
 
-- Engenharia de Software
-- Java e Spring Boot
-- Desenvolvimento e integração de APIs REST
-- React e Angular
-- SQL e bancos de dados
-- Estruturas de Dados e Algoritmos
-- Ciência de Dados e Machine Learning
-- Boas práticas e arquitetura de software
+Engenharia de Software
 
----
+Java e Spring Boot
 
-## 🛠️ Tecnologias e Ferramentas
+Desenvolvimento e integração de APIs REST
 
-### Backend e Banco de Dados
+React e Angular
+
+SQL e bancos de dados
+
+Estruturas de Dados e Algoritmos
+
+Ciência de Dados e Machine Learning
+
+Boas práticas e arquitetura de software
+
+🛠️ Tecnologias e Ferramentas
+
+Backend e Banco de Dados
 
 <div>
   <img height="40" width="50" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -43,7 +46,7 @@ Gosto de aprender na prática, desenvolver projetos e aprofundar meus conhecimen
   <img height="40" width="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-### Frontend
+Frontend
 
 <div>
   <img height="40" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -51,11 +54,83 @@ Gosto de aprender na prática, desenvolver projetos e aprofundar meus conhecimen
   <img height="40" width="50" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-### Ciência de Dados
+Ciência de Dados
 
 <div>
   <img height="40" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img height="40" width="50" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img height="40" width="50" alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img height="40" width="50" alt="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img height="40" alt="Power BI" src="https://img.shields.io/badge/Power_B
+  <img height="40" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</div>
+
+Ferramentas
+
+<div>
+  <img height="40" width="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="40" width="50" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+📂 Projetos em destaque
+
+🛒 Sistema de Gerenciamento de Produtos — Angular + Spring Boot
+
+Desenvolvimento de uma aplicação Full Stack para gerenciamento de produtos.
+
+Frontend desenvolvido com Angular.
+
+Backend estruturado com Java e Spring Boot.
+
+Integração entre aplicações por meio de API REST.
+
+Persistência de dados com PostgreSQL.
+
+🔐 Sistema de Login — React
+
+Desenvolvimento de uma aplicação de autenticação de usuários.
+
+Gerenciamento de autenticação com Context API.
+
+Proteção de rotas e controle de acesso.
+
+Persistência de sessão utilizando LocalStorage.
+
+📊 Agricultural Raw Material Prices — Python
+
+Análise exploratória de dados sobre preços de matérias-primas agrícolas.
+
+Limpeza e tratamento de dados com Pandas e NumPy.
+
+Visualização de dados com Matplotlib e Seaborn.
+
+Identificação de padrões e tendências nos dados.
+
+🎯 Objetivo profissional
+
+Meu objetivo é me tornar Engenheiro de Software, com foco no desenvolvimento Backend e na construção de aplicações bem estruturadas, eficientes e escaláveis.
+
+Busco aprofundar meus conhecimentos em Java, Spring Boot, arquitetura de software, bancos de dados, testes e integração de sistemas.
+
+Minha experiência de estudos em Ciência de Dados também contribui para minha formação, ampliando minha capacidade de trabalhar com dados, analisar problemas e desenvolver soluções orientadas a informações.
+
+Acredito na evolução contínua por meio de estudos, projetos práticos e novos desafios.
+
+📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Heitorhj&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Heitorhj&layout=compact&theme=github_dark" />
+</div>
+
+🌎 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/heitor-julio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:heitorjuliobatista@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+💡 Transformando conhecimento em software.
