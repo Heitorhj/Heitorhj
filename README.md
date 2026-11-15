@@ -1,92 +1,71 @@
-# 👋 Olá, eu sou Heitor Júlio Batista
-
-💻 Estudante de Ciência da Computação
-🚀 Futuro Engenheiro de Software
-☕ Java | Spring Boot | SQL
-🐍 Python | Power BI
-🎓 Ciência da Computação — UNINASSAU
-
----
-
 ## 🧠 Sobre mim
 
-Sou estudante de **Ciência da Computação na UNINASSAU**, construindo minha carreira na área de tecnologia com o objetivo de me tornar um **Engenheiro de Software**.
+Sou estudante de Ciência da Computação na UNINASSAU e tenho como objetivo construir minha carreira na área de Engenharia de Software.
 
-Tenho interesse no desenvolvimento de sistemas, APIs, bancos de dados e arquitetura de software, buscando transformar os conhecimentos adquiridos na faculdade e nos estudos em **projetos práticos e aplicações completas**.
+Tenho interesse no desenvolvimento de sistemas, principalmente Backend, construção de APIs REST, bancos de dados e arquitetura de software. Atualmente, concentro meus estudos em Java e Spring Boot, buscando desenvolver aplicações cada vez mais completas e aplicar boas práticas de programação.
 
-Atualmente, venho desenvolvendo minhas habilidades principalmente com **Java e Spring Boot**, trabalhando com desenvolvimento de APIs REST, bancos de dados e boas práticas de programação.
+Minha trajetória na tecnologia também envolve estudos em Ciência de Dados, área na qual desenvolvi conhecimentos em Python, Pandas, NumPy, SQL, Power BI e fundamentos de Machine Learning. Tenho interesse em análise exploratória, tratamento de dados e extração de informações relevantes para a resolução de problemas.
 
-Também possuo experiência prática com ferramentas da área de dados, como **Python, Pandas, NumPy, SQL e Power BI**, conhecimentos que complementam minha formação.
+Também venho estudando tecnologias de Frontend, como React e Angular, para compreender melhor a integração entre interfaces e serviços Backend.
+
+Gosto de aprender na prática, desenvolver projetos e aprofundar meus conhecimentos nos fundamentos da computação.
 
 ### 📚 Atualmente estudando
 
-* Engenharia de Software
-* Java e Spring Boot
-* Desenvolvimento de APIs REST
-* SQL e bancos de dados
-* Estruturas de Dados e Algoritmos
-* Python e Ciência de Dados
-* Cloud Computing
+- Engenharia de Software
+- Java e Spring Boot
+- Desenvolvimento e integração de APIs REST
+- React e Angular
+- SQL e bancos de dados
+- Estruturas de Dados e Algoritmos
+- Ciência de Dados e Machine Learning
+- Boas práticas e arquitetura de software
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Heitor-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Heitor-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Heitor-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Heitor-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Heitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Heitor-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Heitor-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Heitor-PowerBI" height="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</div>
-
----
-
-## 📂 Projetos
-
-* 🏗️ **API de Produtos — Spring Boot**: API REST desenvolvida com Java e Spring Boot, utilizando PostgreSQL para persistência dos dados.
-
-* 🛠️ **Help Desk — Spring Boot + PostgreSQL**: sistema de gerenciamento de chamados, desenvolvido com foco em usuários, departamentos e diferentes níveis de acesso.
-
-* 📊 **Dashboard Power BI**: modelagem de dados e visualização orientada à tomada de decisão.
-
-* 🔎 **Análise SQL — Olist**: consultas avançadas utilizando window functions, CTEs, LAG e joins sobre um dataset real de e-commerce.
-
-* 🐍 **EDA em Python — Agricultural Raw Material Prices**: análise exploratória utilizando Pandas, NumPy, Matplotlib e Seaborn, do dado bruto ao insight.
-
----
-
-## 🚀 Meu objetivo
-
-Meu objetivo é me tornar um **Engenheiro de Software**, construindo uma base sólida em programação, estruturas de dados, bancos de dados, APIs, arquitetura de software, testes, versionamento e cloud.
-
-Busco evoluir continuamente através de projetos práticos, estudos e experiências profissionais, transformando conhecimento em **soluções de software bem estruturadas e úteis**.
-
----
-
-## 📊 Estatísticas do GitHub
+### Backend e Banco de Dados
 
 <div>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Heitorhj&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Heitorhj&layout=compact&theme=github_dark" />
+  <img height="40" width="50" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img height="40" width="50" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img height="40" width="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+### Frontend
+
+<div>
+  <img height="40" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="40" width="50" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img height="40" width="50" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
+
+### Ciência de Dados
+
+<div>
+  <img height="40" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="40" width="50" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img height="40" width="50" alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img height="40" width="50" alt="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img height="40" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</div>
+
+### Ferramentas
+
+<div>
+  <img height="40" width="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="40" width="50" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 ---
 
-## 🌎 Contato
+## 🎯 Objetivo profissional
 
-<div> 
-  <a href="https://www.linkedin.com/in/heitor-julio" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:heitorjuliobatista@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+Meu objetivo é me tornar Engenheiro de Software, com foco no desenvolvimento Backend e na construção de aplicações bem estruturadas, eficientes e escaláveis.
 
----
+Busco aprofundar meus conhecimentos em Java, Spring Boot, arquitetura de software, bancos de dados, testes e integração de sistemas.
 
-💡 **“Transformando conhecimento em software.”**
+Minha experiência de estudos em Ciência de Dados também contribui para minha formação, ampliando minha capacidade de trabalhar com dados, analisar problemas e desenvolver soluções orientadas a informações.
+
+Acredito na evolução contínua por meio de estudos, projetos práticos e novos desafios.
