@@ -1,3 +1,13 @@
+# 👋 Olá, eu sou Heitor Júlio Batista
+
+💻 Estudante de Ciência da Computação — UNINASSAU  
+🚀 Futuro Engenheiro de Software  
+☕ Java | Spring Boot | SQL | PostgreSQL  
+⚛️ React | Angular | JavaScript  
+🐍 Python | Pandas | NumPy | Power BI
+
+---
+
 ## 🧠 Sobre mim
 
 Sou estudante de Ciência da Computação na UNINASSAU e tenho como objetivo construir minha carreira na área de Engenharia de Software.
@@ -48,24 +58,4 @@ Gosto de aprender na prática, desenvolver projetos e aprofundar meus conhecimen
   <img height="40" width="50" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img height="40" width="50" alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img height="40" width="50" alt="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img height="40" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</div>
-
-### Ferramentas
-
-<div>
-  <img height="40" width="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img height="40" width="50" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-
----
-
-## 🎯 Objetivo profissional
-
-Meu objetivo é me tornar Engenheiro de Software, com foco no desenvolvimento Backend e na construção de aplicações bem estruturadas, eficientes e escaláveis.
-
-Busco aprofundar meus conhecimentos em Java, Spring Boot, arquitetura de software, bancos de dados, testes e integração de sistemas.
-
-Minha experiência de estudos em Ciência de Dados também contribui para minha formação, ampliando minha capacidade de trabalhar com dados, analisar problemas e desenvolver soluções orientadas a informações.
-
-Acredito na evolução contínua por meio de estudos, projetos práticos e novos desafios.
+  <img height="40" alt="Power BI" src="https://img.shields.io/badge/Power_B
