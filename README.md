@@ -1,12 +1,16 @@
-👋 Olá, eu sou Heitor Júlio Batista
+<h1 align="center">👋 Olá, eu sou Heitor Júlio Batista</h1>
 
-💻 Estudante de Ciência da Computação — UNINASSAU
-🚀 Futuro Engenheiro de Software
-☕ Java | Spring Boot | SQL | PostgreSQL
-⚛️ React | Angular | JavaScript
-🐍 Python | Pandas | NumPy | Power BI
+<p align="center">
+  💻 Estudante de Ciência da Computação — UNINASSAU<br>
+  🚀 Futuro Engenheiro de Software<br><br>
+  ☕ Java | Spring Boot | SQL | PostgreSQL<br>
+  ⚛️ React | Angular | JavaScript<br>
+  🐍 Python | Pandas | NumPy | Power BI
+</p>
 
-🧠 Sobre mim
+---
+
+## 🧠 Sobre mim
 
 Sou estudante de Ciência da Computação na UNINASSAU e tenho como objetivo construir minha carreira na área de Engenharia de Software.
 
@@ -18,27 +22,24 @@ Também venho estudando tecnologias de Frontend, como React e Angular, para comp
 
 Gosto de aprender na prática, desenvolver projetos e aprofundar meus conhecimentos nos fundamentos da computação.
 
-📚 Atualmente estudando
+---
 
-Engenharia de Software
+## 📚 Atualmente estudando
 
-Java e Spring Boot
+- Engenharia de Software
+- Java e Spring Boot
+- Desenvolvimento e integração de APIs REST
+- React e Angular
+- SQL e bancos de dados
+- Estruturas de Dados e Algoritmos
+- Ciência de Dados e Machine Learning
+- Boas práticas e arquitetura de software
 
-Desenvolvimento e integração de APIs REST
+---
 
-React e Angular
+## 🛠️ Tecnologias e Ferramentas
 
-SQL e bancos de dados
-
-Estruturas de Dados e Algoritmos
-
-Ciência de Dados e Machine Learning
-
-Boas práticas e arquitetura de software
-
-🛠️ Tecnologias e Ferramentas
-
-Backend e Banco de Dados
+### Backend e Banco de Dados
 
 <div>
   <img height="40" width="50" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -46,7 +47,7 @@ Backend e Banco de Dados
   <img height="40" width="50" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-Frontend
+### Frontend
 
 <div>
   <img height="40" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -54,7 +55,7 @@ Frontend
   <img height="40" width="50" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-Ciência de Dados
+### Ciência de Dados
 
 <div>
   <img height="40" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -64,48 +65,45 @@ Ciência de Dados
   <img height="40" alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
 
-Ferramentas
+### Ferramentas
 
 <div>
   <img height="40" width="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img height="40" width="50" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
-📂 Projetos em destaque
+---
 
-🛒 Sistema de Gerenciamento de Produtos — Angular + Spring Boot
+## 📂 Projetos em destaque
 
-Desenvolvimento de uma aplicação Full Stack para gerenciamento de produtos.
+### 🛒 Sistema de Gerenciamento de Produtos — Angular + Spring Boot
 
-Frontend desenvolvido com Angular.
+Aplicação Full Stack para gerenciamento de produtos.
 
-Backend estruturado com Java e Spring Boot.
+- Frontend desenvolvido com Angular
+- Backend estruturado com Java e Spring Boot
+- Integração entre aplicações por meio de API REST
+- Persistência de dados com PostgreSQL
 
-Integração entre aplicações por meio de API REST.
+### 🔐 Sistema de Login — React
 
-Persistência de dados com PostgreSQL.
+Aplicação de autenticação de usuários.
 
-🔐 Sistema de Login — React
+- Gerenciamento de autenticação com Context API
+- Proteção de rotas e controle de acesso
+- Persistência de sessão utilizando LocalStorage
 
-Desenvolvimento de uma aplicação de autenticação de usuários.
-
-Gerenciamento de autenticação com Context API.
-
-Proteção de rotas e controle de acesso.
-
-Persistência de sessão utilizando LocalStorage.
-
-📊 Agricultural Raw Material Prices — Python
+### 📊 Agricultural Raw Material Prices — Python
 
 Análise exploratória de dados sobre preços de matérias-primas agrícolas.
 
-Limpeza e tratamento de dados com Pandas e NumPy.
+- Limpeza e tratamento de dados com Pandas e NumPy
+- Visualização de dados com Matplotlib e Seaborn
+- Identificação de padrões e tendências nos dados
 
-Visualização de dados com Matplotlib e Seaborn.
+---
 
-Identificação de padrões e tendências nos dados.
-
-🎯 Objetivo profissional
+## 🎯 Objetivo profissional
 
 Meu objetivo é me tornar Engenheiro de Software, com foco no desenvolvimento Backend e na construção de aplicações bem estruturadas, eficientes e escaláveis.
 
@@ -115,14 +113,18 @@ Minha experiência de estudos em Ciência de Dados também contribui para minha 
 
 Acredito na evolução contínua por meio de estudos, projetos práticos e novos desafios.
 
-📊 Estatísticas do GitHub
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Heitorhj&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Heitorhj&layout=compact&theme=github_dark" />
 </div>
 
-🌎 Contato
+---
+
+## 🌎 Contato
 
 <div>
   <a href="https://www.linkedin.com/in/heitor-julio" target="_blank">
@@ -133,4 +135,4 @@ Acredito na evolução contínua por meio de estudos, projetos práticos e novos
   </a>
 </div>
 
-💡 Transformando conhecimento em software.
+<p align="center">💡 <em>Transformando conhecimento em software.</em></p>
